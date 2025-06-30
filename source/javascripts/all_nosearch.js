@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //= require ./lib/_energize
 //= require ./app/_copy
 //= require ./app/_toc

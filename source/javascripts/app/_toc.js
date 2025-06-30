@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //= require ../lib/_jquery
 //= require ../lib/_imagesloaded.min
 ;(function () {

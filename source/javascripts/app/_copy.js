@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function copyToClipboard(container) {
   const el = document.createElement('textarea');
   el.value = container.textContent.replace(/\n$/, '');
